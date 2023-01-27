@@ -2,7 +2,7 @@
   "name": "zhun-web-fabric",
   "version": "1.0.0",
   "description": "publish subscribe data uaing javascript",
-  "main": "index.js",
+  "main": "zhun-fabric.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
